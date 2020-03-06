@@ -1,4 +1,4 @@
-name = "Remco"
+name = "Marian"
 print "This is "+name+"'s file"
 
 year =  input("Give the year in 4 digits    : ")
